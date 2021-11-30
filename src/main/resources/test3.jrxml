@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 7.9.0.final using JasperReports Library version 6.16.0-48579d909b7943b64690c65c71e07e0b80981928  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Blank_Letter" pageWidth="612" pageHeight="792" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="3e9466a2-9876-4a64-bb70-ed177c7b53de">
+    <property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+    <parameter name="logo" class="java.io.InputStream"/>
+    <detail>
+        <band height="752" splitType="Stretch">
+            <image>
+                <reportElement x="0" y="-10" width="572" height="752" uuid="105145e4-736e-424d-8c50-f56c7f170238"/>
+                <imageExpression><![CDATA["/Users/mac/Downloads/table_page-0001.jpg"]]></imageExpression>
+            </image>
+        </band>
+        <band height="752" splitType="Stretch">
+            <image>
+                <reportElement x="0" y="-10" width="572" height="752" uuid="105145e4-736e-424d-8c50-f56c7f170238"/>
+                <imageExpression><![CDATA["/Users/mac/Downloads/table_page-0001.jpg"]]></imageExpression>
+            </image>
+        </band>
+    </detail>
+</jasperReport>
